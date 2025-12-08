@@ -19,7 +19,7 @@ The original paper is an implementation of the enhanced two-step floating catchm
 
 ## Repository Documents
 
-- Publication: 
+- Publication DOI: [10.1080/15230406.2025.2591124](https://doi.org/10.1080/15230406.2025.2591124)
 - Pre-analysis plan: [docs/report/preanalysis.md](https://hegsrr.github.io/RPr-Kang-2020/report/preanalysis.html)
 - Study report version 1: [docs/report/COVID-19Acc.html](https://hegsrr.github.io/RPr-Kang-2020/report/COVID-19Acc.html)
 - Study report version 2: [docs/report/02-COVID-19Acc-Original.pdf](https://hegsrr.github.io/RPr-Kang-2020/report/02-COVID-19Acc-Original.pdf)
